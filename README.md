@@ -17,9 +17,7 @@ The Weather Application is a web-based project developed using HTML, CSS, and Ja
 
 ## 🚀 How to Run the Project
 1. Clone this repository:
-   ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
-   ```
+](https://ajaykumarmarthala-lang.github.io/Weather-Application
 2. Open the project folder.
 3. Open `index.html` in your browser.
 4. Search for a location to view its weather information.
